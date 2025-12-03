@@ -7,7 +7,7 @@ import sys
 # --- 1. MQTT CONFIGURATION (The Source) ---
 MQTT_BROKER = "160.187.144.142"
 MQTT_PORT = 1883
-MQTT_TOPIC = "student/sensor/Abimanyu3TIA"  # Your unique topic
+MQTT_TOPIC = "student/sensor/Terserah"  # Your unique topic
 
 # --- 2. MONGODB CONFIGURATION (The Destination) ---
 # REPLACE THE LINE BELOW with your actual connection string from Atlas or Local
