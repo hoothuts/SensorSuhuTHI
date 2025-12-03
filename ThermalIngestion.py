@@ -14,10 +14,10 @@ MQTT_TOPIC = "student/sensor/Abimanyu3TIA"  # Your unique topic
 # Format for Atlas: "mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/"
 # Format for Local with Password: "mongodb://<username>:<password>@localhost:27017/"
 
-MONGO_URI = "mongodb+srv://abimanyu23ti_db_user:abimanyu23ti@bigdata.qravd4m.mongodb.net/" 
+MONGO_URI = "URI_MONGO_DB" 
 
-DB_NAME = "Sensor"
-COLLECTION_NAME = "SensorKelompok8"
+DB_NAME = "DB_NAME"
+COLLECTION_NAME = "COLLECTION_NAME"
 
 # --- 3. CONNECT TO DATABASE ---
 try:
